@@ -1,6 +1,7 @@
 import React from 'react';
 
 const NothingSelected = () => {
+
     return (
         <div className='nothing__main-content'>
             <p>
@@ -9,7 +10,9 @@ const NothingSelected = () => {
                 or create an entry!
             </p>
 
-            <i className='far fa-star fa-4x mt-5'/>
+            <i className='far fa-star fa-4x mt-5 mb-5'/>
+
+
         </div>
     );
 };
