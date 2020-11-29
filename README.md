@@ -1,1 +1,2 @@
-See the demo https://diariodetrading.netlify.app/auth/login
+See the demo https://diariodetrading.netlify.app
+
